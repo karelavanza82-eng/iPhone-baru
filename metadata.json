@@ -1,0 +1,6 @@
+{
+  "name": "PureOS",
+  "description": "Authentic iOS-style native Android home screen launcher with spring icon-morph transitions, custom icon pack, Control Center, Notification Center, Widgets, App Library, and Spotlight search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
